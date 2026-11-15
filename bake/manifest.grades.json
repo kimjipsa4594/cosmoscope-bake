@@ -1,0 +1,1745 @@
+{
+ "version": 1,
+ "entries": [
+  {
+   "id": "callisto",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/callisto.FHD.ktx2",
+     "bytes": 1816561,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/callisto.QHD.ktx2",
+     "bytes": 3165893,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/callisto.4K.ktx2",
+     "bytes": 7641709,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/callisto.8K.ktx2",
+     "bytes": 25414888,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "callisto_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/callisto_bright.FHD.ktx2",
+     "bytes": 2017930,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/callisto_bright.QHD.ktx2",
+     "bytes": 3523748,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/callisto_bright.4K.ktx2",
+     "bytes": 8550891,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/callisto_bright.8K.ktx2",
+     "bytes": 29000765,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "ceres",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/ceres.FHD.ktx2",
+     "bytes": 1950916,
+     "width": 1920,
+     "height": 959
+    },
+    "QHD": {
+     "key": "textures/ceres.QHD.ktx2",
+     "bytes": 3390806,
+     "width": 2560,
+     "height": 1278
+    },
+    "4K": {
+     "key": "textures/ceres.4K.ktx2",
+     "bytes": 8253614,
+     "width": 4096,
+     "height": 2045
+    },
+    "8K": {
+     "key": "textures/ceres.8K.ktx2",
+     "bytes": 28562997,
+     "width": 8192,
+     "height": 4090
+    }
+   }
+  },
+  {
+   "id": "ceres_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/ceres_bright.FHD.ktx2",
+     "bytes": 1975636,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/ceres_bright.QHD.ktx2",
+     "bytes": 3449894,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/ceres_bright.4K.ktx2",
+     "bytes": 8438547,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/ceres_bright.8K.ktx2",
+     "bytes": 29472891,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "deimos",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/deimos.FHD.ktx2",
+     "bytes": 1838347,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/deimos.QHD.ktx2",
+     "bytes": 3213374,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/deimos.4K.ktx2",
+     "bytes": 7738319,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/deimos.8K.ktx2",
+     "bytes": 28334801,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "deimos_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/deimos_bright.FHD.ktx2",
+     "bytes": 1827859,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/deimos_bright.QHD.ktx2",
+     "bytes": 3211253,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/deimos_bright.4K.ktx2",
+     "bytes": 7952103,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/deimos_bright.8K.ktx2",
+     "bytes": 30048298,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "dione",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/dione.FHD.ktx2",
+     "bytes": 2357360,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/dione.QHD.ktx2",
+     "bytes": 4167782,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/dione.4K.ktx2",
+     "bytes": 10490533,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/dione.8K.ktx2",
+     "bytes": 40015206,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "dione_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/dione_bright.FHD.ktx2",
+     "bytes": 2361288,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/dione_bright.QHD.ktx2",
+     "bytes": 4182632,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/dione_bright.4K.ktx2",
+     "bytes": 10580455,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/dione_bright.8K.ktx2",
+     "bytes": 40748032,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "earth_clouds",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/earth_clouds.FHD.ktx2",
+     "bytes": 1959364,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/earth_clouds.QHD.ktx2",
+     "bytes": 3431046,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/earth_clouds.4K.ktx2",
+     "bytes": 8565190,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/earth_clouds.8K.ktx2",
+     "bytes": 32274206,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "earth_clouds_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/earth_clouds_bright.FHD.ktx2",
+     "bytes": 1952747,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/earth_clouds_bright.QHD.ktx2",
+     "bytes": 3402132,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/earth_clouds_bright.4K.ktx2",
+     "bytes": 8424767,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/earth_clouds_bright.8K.ktx2",
+     "bytes": 32357981,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "earth_day",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/earth_day.FHD.ktx2",
+     "bytes": 1097095,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/earth_day.QHD.ktx2",
+     "bytes": 1878879,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/earth_day.4K.ktx2",
+     "bytes": 4401265,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/earth_day.8K.ktx2",
+     "bytes": 16278713,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "earth_day_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/earth_day_bright.FHD.ktx2",
+     "bytes": 822626,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/earth_day_bright.QHD.ktx2",
+     "bytes": 1384152,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/earth_day_bright.4K.ktx2",
+     "bytes": 3236411,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/earth_day_bright.8K.ktx2",
+     "bytes": 12243982,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "earth_night",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/earth_night.FHD.ktx2",
+     "bytes": 690441,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/earth_night.QHD.ktx2",
+     "bytes": 1149284,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/earth_night.4K.ktx2",
+     "bytes": 2282373,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/earth_night.8K.ktx2",
+     "bytes": 7634003,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "earth_night_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/earth_night_bright.FHD.ktx2",
+     "bytes": 1256003,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/earth_night_bright.QHD.ktx2",
+     "bytes": 1845132,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/earth_night_bright.4K.ktx2",
+     "bytes": 2838503,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/earth_night_bright.8K.ktx2",
+     "bytes": 10805480,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "earth_normal",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/earth_normal.FHD.ktx2",
+     "bytes": 1633204,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/earth_normal.QHD.ktx2",
+     "bytes": 2714837,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/earth_normal.4K.ktx2",
+     "bytes": 5904635,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/earth_normal.8K.ktx2",
+     "bytes": 20629393,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "enceladus",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/enceladus.FHD.ktx2",
+     "bytes": 2368060,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/enceladus.QHD.ktx2",
+     "bytes": 4196754,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/enceladus.4K.ktx2",
+     "bytes": 10615417,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/enceladus.8K.ktx2",
+     "bytes": 40975697,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "enceladus_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/enceladus_bright.FHD.ktx2",
+     "bytes": 2370837,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/enceladus_bright.QHD.ktx2",
+     "bytes": 4205361,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/enceladus_bright.4K.ktx2",
+     "bytes": 10675413,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/enceladus_bright.8K.ktx2",
+     "bytes": 41474335,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "europa",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/europa.FHD.ktx2",
+     "bytes": 1738456,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/europa.QHD.ktx2",
+     "bytes": 2911553,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/europa.4K.ktx2",
+     "bytes": 6305427,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/europa.8K.ktx2",
+     "bytes": 18777281,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "europa_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/europa_bright.FHD.ktx2",
+     "bytes": 1965678,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/europa_bright.QHD.ktx2",
+     "bytes": 3408391,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/europa_bright.4K.ktx2",
+     "bytes": 8072247,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/europa_bright.8K.ktx2",
+     "bytes": 27511163,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "ganymede",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/ganymede.FHD.ktx2",
+     "bytes": 1810978,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/ganymede.QHD.ktx2",
+     "bytes": 3120085,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/ganymede.4K.ktx2",
+     "bytes": 7300013,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/ganymede.8K.ktx2",
+     "bytes": 23184572,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "ganymede_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/ganymede_bright.FHD.ktx2",
+     "bytes": 2194553,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/ganymede_bright.QHD.ktx2",
+     "bytes": 3835199,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/ganymede_bright.4K.ktx2",
+     "bytes": 9342665,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/ganymede_bright.8K.ktx2",
+     "bytes": 32871455,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "iapetus",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/iapetus.FHD.ktx2",
+     "bytes": 2243462,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/iapetus.QHD.ktx2",
+     "bytes": 3943386,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/iapetus.4K.ktx2",
+     "bytes": 9459735,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/iapetus.8K.ktx2",
+     "bytes": 34764118,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "iapetus_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/iapetus_bright.FHD.ktx2",
+     "bytes": 2279438,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/iapetus_bright.QHD.ktx2",
+     "bytes": 4015179,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/iapetus_bright.4K.ktx2",
+     "bytes": 9802743,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/iapetus_bright.8K.ktx2",
+     "bytes": 36839852,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "intergalactic-bg",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/intergalactic-bg.FHD.ktx2",
+     "bytes": 1204651,
+     "width": 1920,
+     "height": 823
+    },
+    "QHD": {
+     "key": "textures/intergalactic-bg.QHD.ktx2",
+     "bytes": 1902875,
+     "width": 2560,
+     "height": 1097
+    },
+    "4K": {
+     "key": "textures/intergalactic-bg.4K.ktx2",
+     "bytes": 3927025,
+     "width": 4096,
+     "height": 1755
+    },
+    "8K": {
+     "key": "textures/intergalactic-bg.8K.ktx2",
+     "bytes": 10523220,
+     "width": 8192,
+     "height": 3511
+    }
+   }
+  },
+  {
+   "id": "io",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/io.FHD.ktx2",
+     "bytes": 2294741,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/io.QHD.ktx2",
+     "bytes": 4014357,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/io.4K.ktx2",
+     "bytes": 9769253,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/io.8K.ktx2",
+     "bytes": 34791722,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "io_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/io_bright.FHD.ktx2",
+     "bytes": 2317172,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/io_bright.QHD.ktx2",
+     "bytes": 4067226,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/io_bright.4K.ktx2",
+     "bytes": 10018581,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/io_bright.8K.ktx2",
+     "bytes": 36453731,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "jupiter",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/jupiter.FHD.ktx2",
+     "bytes": 2218091,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/jupiter.QHD.ktx2",
+     "bytes": 3915655,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/jupiter.4K.ktx2",
+     "bytes": 9764430,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/jupiter.8K.ktx2",
+     "bytes": 36356725,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "jupiter_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/jupiter_bright.FHD.ktx2",
+     "bytes": 1911766,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/jupiter_bright.QHD.ktx2",
+     "bytes": 3351323,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/jupiter_bright.4K.ktx2",
+     "bytes": 8196909,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/jupiter_bright.8K.ktx2",
+     "bytes": 31603760,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "mars",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/mars.FHD.ktx2",
+     "bytes": 2276176,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/mars.QHD.ktx2",
+     "bytes": 4022840,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/mars.4K.ktx2",
+     "bytes": 10090338,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/mars.8K.ktx2",
+     "bytes": 38089291,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "mars_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/mars_bright.FHD.ktx2",
+     "bytes": 2104244,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/mars_bright.QHD.ktx2",
+     "bytes": 3713554,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/mars_bright.4K.ktx2",
+     "bytes": 9364676,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/mars_bright.8K.ktx2",
+     "bytes": 36129723,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "mercury",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/mercury.FHD.ktx2",
+     "bytes": 2088808,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/mercury.QHD.ktx2",
+     "bytes": 3698267,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/mercury.4K.ktx2",
+     "bytes": 9357616,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/mercury.8K.ktx2",
+     "bytes": 36359950,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "mercury_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/mercury_bright.FHD.ktx2",
+     "bytes": 2329176,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/mercury_bright.QHD.ktx2",
+     "bytes": 4125914,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/mercury_bright.4K.ktx2",
+     "bytes": 10487280,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/mercury_bright.8K.ktx2",
+     "bytes": 41167464,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "mimas",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/mimas.FHD.ktx2",
+     "bytes": 2013879,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/mimas.QHD.ktx2",
+     "bytes": 3502491,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/mimas.4K.ktx2",
+     "bytes": 8455870,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/mimas.8K.ktx2",
+     "bytes": 29457553,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "mimas_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/mimas_bright.FHD.ktx2",
+     "bytes": 2011117,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/mimas_bright.QHD.ktx2",
+     "bytes": 3505258,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/mimas_bright.4K.ktx2",
+     "bytes": 8577153,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/mimas_bright.8K.ktx2",
+     "bytes": 30498218,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "moon",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/moon.FHD.ktx2",
+     "bytes": 2334883,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/moon.QHD.ktx2",
+     "bytes": 4134810,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/moon.4K.ktx2",
+     "bytes": 10498548,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/moon.8K.ktx2",
+     "bytes": 40691112,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "moon_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/moon_bright.FHD.ktx2",
+     "bytes": 2267117,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/moon_bright.QHD.ktx2",
+     "bytes": 4003685,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/moon_bright.4K.ktx2",
+     "bytes": 10054613,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/moon_bright.8K.ktx2",
+     "bytes": 39242129,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "neptune",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/neptune.FHD.ktx2",
+     "bytes": 1418357,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/neptune.QHD.ktx2",
+     "bytes": 2234203,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/neptune.4K.ktx2",
+     "bytes": 3977641,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/neptune.8K.ktx2",
+     "bytes": 11628190,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "neptune_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/neptune_bright.FHD.ktx2",
+     "bytes": 1441508,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/neptune_bright.QHD.ktx2",
+     "bytes": 2307068,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/neptune_bright.4K.ktx2",
+     "bytes": 3869935,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/neptune_bright.8K.ktx2",
+     "bytes": 10115292,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "phobos",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/phobos.FHD.ktx2",
+     "bytes": 1960806,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/phobos.QHD.ktx2",
+     "bytes": 3434225,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/phobos.4K.ktx2",
+     "bytes": 8542851,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/phobos.8K.ktx2",
+     "bytes": 31362382,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "phobos_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/phobos_bright.FHD.ktx2",
+     "bytes": 2079760,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/phobos_bright.QHD.ktx2",
+     "bytes": 3663398,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/phobos_bright.4K.ktx2",
+     "bytes": 9039327,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/phobos_bright.8K.ktx2",
+     "bytes": 34894041,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "pluto",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/pluto.FHD.ktx2",
+     "bytes": 1613393,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/pluto.QHD.ktx2",
+     "bytes": 2832673,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/pluto.4K.ktx2",
+     "bytes": 7028323,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/pluto.8K.ktx2",
+     "bytes": 25809650,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "pluto_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/pluto_bright.FHD.ktx2",
+     "bytes": 1628788,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/pluto_bright.QHD.ktx2",
+     "bytes": 2870575,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/pluto_bright.4K.ktx2",
+     "bytes": 7218370,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/pluto_bright.8K.ktx2",
+     "bytes": 27167010,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "rhea",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/rhea.FHD.ktx2",
+     "bytes": 2368587,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/rhea.QHD.ktx2",
+     "bytes": 4200673,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/rhea.4K.ktx2",
+     "bytes": 10611517,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/rhea.8K.ktx2",
+     "bytes": 40794146,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "rhea_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/rhea_bright.FHD.ktx2",
+     "bytes": 2370074,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/rhea_bright.QHD.ktx2",
+     "bytes": 4206961,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/rhea_bright.4K.ktx2",
+     "bytes": 10671254,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/rhea_bright.8K.ktx2",
+     "bytes": 41348310,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "saturn",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/saturn.FHD.ktx2",
+     "bytes": 1668760,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/saturn.QHD.ktx2",
+     "bytes": 2795264,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/saturn.4K.ktx2",
+     "bytes": 5258375,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/saturn.8K.ktx2",
+     "bytes": 15568522,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "saturn_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/saturn_bright.FHD.ktx2",
+     "bytes": 582796,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/saturn_bright.QHD.ktx2",
+     "bytes": 992354,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/saturn_bright.4K.ktx2",
+     "bytes": 1989927,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/saturn_bright.8K.ktx2",
+     "bytes": 6374625,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "skybox",
+   "kind": "skybox",
+   "grades": {
+    "FHD": {
+     "key": "textures/skybox.FHD.ktx2",
+     "bytes": 1867824,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/skybox.QHD.ktx2",
+     "bytes": 3243183,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/skybox.4K.ktx2",
+     "bytes": 8026487,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/skybox.8K.ktx2",
+     "bytes": 31370654,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "sun",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/sun.FHD.ktx2",
+     "bytes": 2244861,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/sun.QHD.ktx2",
+     "bytes": 3951420,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/sun.4K.ktx2",
+     "bytes": 9770631,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/sun.8K.ktx2",
+     "bytes": 37727348,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "sun-flame",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/sun-flame.FHD.ktx2",
+     "bytes": 2290169,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/sun-flame.QHD.ktx2",
+     "bytes": 4013459,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/sun-flame.4K.ktx2",
+     "bytes": 9921824,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/sun-flame.8K.ktx2",
+     "bytes": 36987429,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "sun_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/sun_bright.FHD.ktx2",
+     "bytes": 2001154,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/sun_bright.QHD.ktx2",
+     "bytes": 3494223,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/sun_bright.4K.ktx2",
+     "bytes": 8563846,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/sun_bright.8K.ktx2",
+     "bytes": 32962148,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "tethys",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/tethys.FHD.ktx2",
+     "bytes": 2357498,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/tethys.QHD.ktx2",
+     "bytes": 4175980,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/tethys.4K.ktx2",
+     "bytes": 10535102,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/tethys.8K.ktx2",
+     "bytes": 40176102,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "tethys_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/tethys_bright.FHD.ktx2",
+     "bytes": 2361673,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/tethys_bright.QHD.ktx2",
+     "bytes": 4189306,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/tethys_bright.4K.ktx2",
+     "bytes": 10616910,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/tethys_bright.8K.ktx2",
+     "bytes": 40843239,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "triton",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/triton.FHD.ktx2",
+     "bytes": 1392743,
+     "width": 1920,
+     "height": 1226
+    },
+    "QHD": {
+     "key": "textures/triton.QHD.ktx2",
+     "bytes": 2447513,
+     "width": 2560,
+     "height": 1635
+    },
+    "4K": {
+     "key": "textures/triton.4K.ktx2",
+     "bytes": 6033204,
+     "width": 4096,
+     "height": 2615
+    },
+    "8K": {
+     "key": "textures/triton.8K.ktx2",
+     "bytes": 21805762,
+     "width": 8192,
+     "height": 5231
+    }
+   }
+  },
+  {
+   "id": "triton_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/triton_bright.FHD.ktx2",
+     "bytes": 1408388,
+     "width": 1920,
+     "height": 1216
+    },
+    "QHD": {
+     "key": "textures/triton_bright.QHD.ktx2",
+     "bytes": 2474265,
+     "width": 2560,
+     "height": 1621
+    },
+    "4K": {
+     "key": "textures/triton_bright.4K.ktx2",
+     "bytes": 6173008,
+     "width": 4096,
+     "height": 2594
+    },
+    "8K": {
+     "key": "textures/triton_bright.8K.ktx2",
+     "bytes": 22814814,
+     "width": 8192,
+     "height": 5188
+    }
+   }
+  },
+  {
+   "id": "uranus",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/uranus.FHD.ktx2",
+     "bytes": 114657,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/uranus.QHD.ktx2",
+     "bytes": 141846,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/uranus.4K.ktx2",
+     "bytes": 169112,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/uranus.8K.ktx2",
+     "bytes": 404433,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "uranus_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/uranus_bright.FHD.ktx2",
+     "bytes": 87011,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/uranus_bright.QHD.ktx2",
+     "bytes": 110859,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/uranus_bright.4K.ktx2",
+     "bytes": 129646,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/uranus_bright.8K.ktx2",
+     "bytes": 251994,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "venus",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/venus.FHD.ktx2",
+     "bytes": 2126354,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/venus.QHD.ktx2",
+     "bytes": 3773632,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/venus.4K.ktx2",
+     "bytes": 9739855,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/venus.8K.ktx2",
+     "bytes": 25501856,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  },
+  {
+   "id": "venus_bright",
+   "kind": "texture",
+   "grades": {
+    "FHD": {
+     "key": "textures/venus_bright.FHD.ktx2",
+     "bytes": 2129264,
+     "width": 1920,
+     "height": 960
+    },
+    "QHD": {
+     "key": "textures/venus_bright.QHD.ktx2",
+     "bytes": 3791778,
+     "width": 2560,
+     "height": 1280
+    },
+    "4K": {
+     "key": "textures/venus_bright.4K.ktx2",
+     "bytes": 9778492,
+     "width": 4096,
+     "height": 2048
+    },
+    "8K": {
+     "key": "textures/venus_bright.8K.ktx2",
+     "bytes": 38112610,
+     "width": 8192,
+     "height": 4096
+    }
+   }
+  }
+ ]
+}
